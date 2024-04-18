@@ -2,6 +2,7 @@
 
 **SQUIRREL & NUTS digital** ist bei **Programmierung**, **Strategie** und **Webredaktion** am Puls der Zeit. Für über 1.000 Kunden im deutschsprachigen Raum entwickeln wir passgenaue digitale Lösungen für gesellschaftliches Engagement.
 
+![Bild eines Notebooks, an dem jemand arbeitet](https://www.squirrelandnuts.de/wp-content/uploads/2024/03/portfolio-digital-scaled.jpg)
 
 ## Web-Strategie
 Wir sind stark in der Strategie, Beratung und in der konkreten Lösung komplexer Probleme mit Hilfe von Technologie. Basierend auf unseren Strategien und unserer technischen Infrastruktur werden **täglich hunderttausende Menschen online erreicht**, So entstehen Reichweite, Relevanz und messbarer Erfolg.
